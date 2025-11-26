@@ -3,7 +3,15 @@
 
 This automation system processes logistics booking emails, extracts and standardizes spreadsheet data, computes KPIs, updates a central master dataset, and maintains customer-specific order history — all without manual work.
 
-It is a complete **ETL + data warehouse + workflow automation engine** built using Power Automate, Excel Scripts, and SharePoint.
+### Workflow Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef57a43c-fdbc-4488-ba14-e3eca894af5f" width="49%" />
+  <img src="https://github.com/user-attachments/assets/6cfa2b7a-7ce3-4975-8092-5678b4cc797b" width="49%" />
+  <img src="https://github.com/user-attachments/assets/bd431aac-08c2-4366-8a9f-e330512e0aa1" width="49%" />
+  <img src="https://github.com/user-attachments/assets/64a7662b-4314-4e9f-ae1f-9226b7b1c2b8" width="49%" />
+</p>
+
+*It is a complete **ETL + data warehouse + workflow automation engine** built using Power Automate, Excel Scripts, and SharePoint.*
 
 ---
 
